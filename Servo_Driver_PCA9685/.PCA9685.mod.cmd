@@ -1,0 +1,1 @@
+cmd_/home/linh/Linux/TN_embeded/Servo_Driver_PCA9685/PCA9685.mod := { echo  /home/linh/Linux/TN_embeded/Servo_Driver_PCA9685/PCA9685.o;  echo; } > /home/linh/Linux/TN_embeded/Servo_Driver_PCA9685/PCA9685.mod
